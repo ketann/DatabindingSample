@@ -15,6 +15,13 @@ public class MainActivity extends AppCompatActivity {
     //https://www.androidhive.info/android-working-with-databinding/
     //https://www.vogella.com/tutorials/AndroidDatabinding/article.html
 
+    //feture
+    //https://medium.com/mindorks/multiple-application-modules-in-one-android-project-36e86ceb8a9
+    //https://medium.com/codequest/gradle-multi-project-build-substituting-jar-dependencies-with-local-projects-4a5323f8680b
+    //https://medium.com/@vanniktech/publishing-your-android-kotlin-or-java-library-to-mavencentral-e22f343b9659
+
+    //git
+    //https://stackoverflow.com/questions/14679614/whats-the-best-practice-for-putting-multiple-projects-in-a-git-repository
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
