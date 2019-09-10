@@ -9,6 +9,12 @@ import com.example.databindingsample.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+    //https://medium.com/@elye.project/kotlin-and-retrofit-2-tutorial-with-working-codes-333a4422a890
+    //https://android.jlelse.eu/room-persistence-library-with-pre-populated-database-5f17ef103d3d
+    //https://codelabs.developers.google.com/codelabs/android-databinding/#0
+    //https://www.androidhive.info/android-working-with-databinding/
+    //https://www.vogella.com/tutorials/AndroidDatabinding/article.html
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
